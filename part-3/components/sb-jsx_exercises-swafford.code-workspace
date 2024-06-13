@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../OneDrive/sb-jsx_exercises-swafford"
+		},
+		{
+			"path": "../../part-1"
+		},
+		{
+			"path": "../../part-2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "part-3"
+	}
+}
